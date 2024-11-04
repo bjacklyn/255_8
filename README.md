@@ -26,8 +26,8 @@ e) Bitcoin Forecasting
 ## Tabula9
 
 a) Synthentic Data
-* 
-* 
+* https://colab.research.google.com/drive/16LrA_-2PF_9FGbTqx6HJMWcOjQMnMOT4?usp=sharing
+* https://www.youtube.com/watch?v=eoAIADBPj3Y
 
 b) Zero-shot Inference
 * 
