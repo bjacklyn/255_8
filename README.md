@@ -20,8 +20,8 @@ d) Energy Forecasting
 * 
 
 e) Bitcoin Forecasting
-* 
-* 
+* https://colab.research.google.com/drive/1ak-u1l-R6JWTf149XxJEtQirKzqSOLhi?usp=sharing
+* https://www.youtube.com/watch?v=v-G19Yg4I-c
 
 ## Tabula9
 
