@@ -12,8 +12,8 @@ b) Finetuning
 * https://www.youtube.com/watch?v=wA6YKwSqeLg
 
 c) Anomaly Detecting
-* 
-* 
+* https://colab.research.google.com/drive/1Wp1g8nq8f3iVEeoyYFRXoXEHS04ZQC59?usp=sharing
+* https://www.youtube.com/watch?v=2u0sDVs_1b4
 
 d) Energy Forecasting
 * 
