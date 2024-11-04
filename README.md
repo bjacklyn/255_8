@@ -30,8 +30,8 @@ a) Synthentic Data
 * https://www.youtube.com/watch?v=eoAIADBPj3Y
 
 b) Zero-shot Inference
-* 
-* 
+* https://colab.research.google.com/drive/1dRYs1SY5Uc7R4NZpKZzafc9TFEjPaJwJ?usp=sharing
+* https://www.youtube.com/watch?v=-IOYwUmMEGY
 
 ## RDL and Relbench
 
