@@ -16,8 +16,8 @@ c) Anomaly Detecting
 * https://www.youtube.com/watch?v=2u0sDVs_1b4
 
 d) Energy Forecasting
-* 
-* 
+* https://colab.research.google.com/drive/1jpB6192AlukvpMuxGXIRIlIJI60m8hI_?usp=sharing
+* https://www.youtube.com/watch?v=9jY2WOA4Ydg
 
 e) Bitcoin Forecasting
 * https://colab.research.google.com/drive/1ak-u1l-R6JWTf149XxJEtQirKzqSOLhi?usp=sharing
