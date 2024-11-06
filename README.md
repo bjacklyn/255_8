@@ -36,5 +36,5 @@ b) Zero-shot Inference
 ## RDL and Relbench
 
 a) Train GNN model
-* 
-* 
+* https://colab.research.google.com/drive/11TzltTfv5vPv8f-eKdaIqevfeNY5eiIq?usp=sharing
+* https://www.youtube.com/watch?v=h9X1ynVtbN8
